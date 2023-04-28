@@ -7,10 +7,6 @@ console.assert(
   multiply(2, 3) === 6,
   "make sure they can multiply together to be 6"
 );
-console.assert(
-  c + wot === 30,
-  "make sure they are defined and can add together to 30"
-);
 
 console.assert(
   word1 + word2 === "completeword",

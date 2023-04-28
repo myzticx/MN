@@ -16,3 +16,7 @@ console.assert(
   add(2, 3) === 5,
   "make sure they are defined and can add together to 30"
 );
+console.assert(
+  c + wot === 30,
+  "make sure they are defined and can add together to 30"
+);
