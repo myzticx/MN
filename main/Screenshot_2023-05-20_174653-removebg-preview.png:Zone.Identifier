@@ -1,0 +1,52 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.remove.bg/
+HostUrl=https://o.remove.bg/downloads/502a2bd5-578c-4fee-8d61-4bd1f6af278c/Screenshot_2023-05-20_174653-removebg-preview.png
+
+<link rel="stylesheet" href="style.css" />
+<nav>
+    <div class="logo">Konnectrr</div>
+    <div class="nav-items">
+      <a href="index.html">Home</a> <a href="about.html">About</a> <a href="contact.html">T&Cs</a><a href="Socials.html">Socials</a>
+
+    </div>
+  </nav>
+
+
+  <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+
+
+<div class="column-left">
+  <h1>These are all the Konnectrr socials.</h1>
+  
+<a href="https://www.youtube.com/channel/UC_o2uWhQYC2rBaro1UaZv6Q">
+    <ion-icon name="logo-youtube"></ion-icon> Youtube
+    <ion-icon size="large"></ion-icon>
+  </a>
+  <a href="https://www.instagram.com/konnectrr/">
+    <ion-icon name="logo-instagram"></ion-icon> Instagram
+    <ion-icon size="large"></ion-icon>
+  </a>
+  <a href="https://www.tiktok.com/@konnectrr?lang=en">
+    <ion-icon name="logo-tiktok"></ion-icon> Tiktok
+    <ion-icon size="large"></ion-icon>
+
+    
+  </a>
+</div>
+<div class="column-right">
+  <img
+    src="./New_Project__43_-removebg-preview.png"
+    alt="illustration
+"
+    class="hero-image"
+  />
+</div>
+</div>
+</section>
+</body>
+</html>
+  <p>If we have any other socials they will appear here. Thanks for viewing!</p>
+
